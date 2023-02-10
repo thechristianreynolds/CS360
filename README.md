@@ -12,9 +12,13 @@ The main screens of this app are listed here:
 | Screen    | Purpose |
 | ----------- | ----------- |
 | Login     | Allow a user to login with an existing account or register a new account        |
+| Login Screen | ![](https://imgur.com/UqJTKHJ) |
 | ViewDatabase   | Allow a logged in user to see a visual representation of their inventory items, update select item quantities, and view a menu with options to add a new entry or view the settings screen.|
+| ViewDatabase Screen | ![](https://imgur.com/DMXOd9W) |
 |AddNewEntry| Allow a logged in user to add a new item to their database with required fields **Item Name** and **Item Quantity** |
+| AddNewEntry Screen | ![](https://imgur.com/oao7QRB) |
 | Settings | Allow a logged in user to change app notification behavior **on** or **off** |
+| Settings Screen | ![](https://imgur.com/84t16oD) |
 
 #### Implementation
 
